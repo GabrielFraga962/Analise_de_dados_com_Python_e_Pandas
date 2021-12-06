@@ -1,4 +1,9 @@
 # Curso_Python_Pandas_Digital_Innovation
+
+<p align="center"><img src="./DIO.png" width="500"></p>
+
+---
+
  Repositório do Curso Introdutório de Python para análise de dados com Python e Pandas da Digital Innovation One.
  
  **Assuntos abordados neste curso**:
