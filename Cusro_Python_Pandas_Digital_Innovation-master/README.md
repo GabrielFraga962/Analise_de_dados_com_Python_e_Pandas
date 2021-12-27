@@ -1,6 +1,6 @@
 # Curso_Python_Pandas_Digital_Innovation
 
-<p align="center"><img src="./DIO.png" width="500"></p>
+<p align="center"><img src="https://i.imgur.com/5z3RVk8.jpg" width="500"></p>
 
 ---
 
